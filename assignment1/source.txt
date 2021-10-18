@@ -1,0 +1,5 @@
+Data from 
+Pacific Climate Impacts Consortium
+
+Download link 
+https://data.pacificclimate.org/data/pcds/agg/?from-date=2010%2F01%2F01&to-date=2021%2F01%2F01&input-polygon=&input-var=&network-name=EC&input-freq=daily&data-format=csv&cliptodate=cliptodate&download-timeseries=Timeseries
